@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+}
+
+p {
+    color: aqua;
+}
+
+button {
+    background-color: orangered;
+    font-size: 48px;
+}
+
+h1 {
+    color: red;
+    text-align: center;
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
+

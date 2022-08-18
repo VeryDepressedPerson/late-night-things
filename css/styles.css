@@ -30,3 +30,12 @@ img {
 .defeat2 {
      font-style: italic;
 }
+
+.parent .child {
+    color: blue;
+}
+
+.stranger {
+    color: red;
+}
+
